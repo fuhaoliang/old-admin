@@ -1,0 +1,1 @@
+webpackJsonp([0],{eukR:function(e,t,u){"use strict";var l=u("ouCL");Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n=l(u("GiK3")),a=function(e){e.route;return n.default.createElement("div",null,n.default.createElement("h2",null,"B111"))},r=a;t.default=r}});
